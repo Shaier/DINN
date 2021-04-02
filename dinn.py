@@ -39,9 +39,9 @@ class DINN(nn.Module):
             self.out=nn.Linear(20, 2) #outputs S, I
 
             def forward(self, x):
-                x=fc1(x)
-                x=fc2(x)
-                x=out(x)
+                x=self.fc1(x)
+                x=self.fc2(x)
+                x=self.out(x)
                 return x
         
         def net_f(alpha1, alpha2):
@@ -70,7 +70,8 @@ class DINN(nn.Module):
             """
             for epoch in n_epochs:
 
-                
+
+
 if __name__ == "__main__":
 
     sir_data = genfromtxt('SIR_data.csv', delimiter=',') #in the form of [t, S, I]
