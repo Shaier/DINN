@@ -4,7 +4,7 @@ import torch.nn as nn
 from numpy import genfromtxt
 import torch.optim as optim
 
-class DINN():
+class DINN:
     def __init__(self, t, S_data, I_data, tao_data, T_star_data, u): #, t, S_data, I_data, tao_data, T_star_data, u
         self.t = t
         self.S = S_data
