@@ -4,6 +4,7 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
 
 <p align="center">
   COVID Model
+  
   <img src="https://github.com/Shaier/DINN/blob/master/Diseases/COVID/COVID.png" width="512" title="Github Logo">
 </p>
 
