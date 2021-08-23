@@ -13,6 +13,6 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
   <img src="https://github.com/Shaier/DINN/blob/master/Experiments/real_data/covid_real_data_cumulative_cases.jpg" width="480" /> 
   <br/><br/>
   <pre>
-  Daily Cases                                                                                 Cumulative Cases
+       Daily Cases                                                                           Cumulative Cases
   <pre>
 </div>
