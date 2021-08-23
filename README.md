@@ -12,6 +12,7 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
   <img src="https://github.com/Shaier/DINN/blob/master/Experiments/real_data/covid_real_data_daily_cases.jpg" width="480" />
   <img src="https://github.com/Shaier/DINN/blob/master/Experiments/real_data/covid_real_data_cumulative_cases.jpg" width="480" /> 
   <br/><br/>
-  <p align="Left">A</p> 
-  <p align="right">B</p>
+  <pre>
+  A                                                                                 B
+  <pre>
 </div>
