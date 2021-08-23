@@ -4,8 +4,7 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
 <br/><br/>
 
 <p align="center">
-   # COVID Model</span>
-   <font size="10"> This is my text number 3</font> 
+   ** COVID Model</span> ** 
 </p>
 
 <div align="center">
