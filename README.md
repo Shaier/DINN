@@ -11,16 +11,9 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
 
 
 <p float="left">
-  <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="100" />
-  <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="100" /> 
+  <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="256" />
+  <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="256" /> 
 </p>
 
-<p align="left">
-  <img src="https://github.com/Shaier/Waterbender/blob/master/data/input/62_rain.jpg" width="256" title="Github Logo">
-</p>
-Model Output
-<p align="right">
-  <img src="https://github.com/Shaier/Waterbender/blob/master/data/output/62_prediction.jpg" width="256" title="Github Logo">
-</p>
 <!-- ![COVID Model](https://github.com/Shaier/DINN/blob/master/Diseases/COVID/COVID.png) -->
 
