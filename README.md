@@ -15,4 +15,5 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
   <pre>
   A                                                                                 B
   <pre>
+  A <br               /> B
 </div>
