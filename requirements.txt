@@ -9,8 +9,8 @@ backcall=0.2.0=pyhd3eb1b0_0
 blas=1.0=mkl
 bleach=3.3.0=pyhd3eb1b0_0
 bzip2=1.0.8=h1de35cc_0
-ca-certificates=2021.4.13=hecd8cb5_1
-certifi=2020.12.5=py36hecd8cb5_0
+ca-certificates=2021.7.5=hecd8cb5_1
+certifi=2021.5.30=py36hecd8cb5_0
 cffi=1.14.5=py36h2125817_0
 cycler=0.10.0=py36hecd8cb5_0
 dataclasses=0.8=pyh4f3eec9_6
@@ -70,8 +70,9 @@ numpy=1.19.2=py36h456fd55_0
 numpy-base=1.19.2=py36hcfb5961_0
 olefile=0.46=py36_0
 openh264=2.1.0=hd9629dc_0
-openssl=1.1.1k=h9ed2024_0
+openssl=1.1.1l=h9ed2024_0
 packaging=20.9=pyhd3eb1b0_0
+pandas=1.1.5=py36hb2f4e1b_0
 pandoc=2.12=hecd8cb5_0
 pandocfilters=1.4.3=py36hecd8cb5_1
 parso=0.8.2=pyhd3eb1b0_0
@@ -89,6 +90,7 @@ pyrsistent=0.17.3=py36haf1e3a3_0
 python=3.6.13=h88f2d9e_0
 python-dateutil=2.8.1=pyhd3eb1b0_0
 pytorch=1.8.1=py3.6_0
+pytz=2021.1=pyhd3eb1b0_0
 pyzmq=20.0.0=py36h23ab428_1
 readline=8.1=h9ed2024_0
 scipy=1.5.2=py36h912ce22_0
