@@ -45,4 +45,5 @@ pip install -r requirements.txt
 
 Once the packages are install, the next recommendation is to explore the [tutorial.ipynb](tutorial.ipynb) file.
 
-Other than that, the [Experiments](https://github.com/Shaier/DINN/tree/master/Experiments) folder
+Other than that, the [experiments](https://github.com/Shaier/DINN/tree/master/Experiments) folder has all the experiments I ran for the paper.
+The [diseases](https://github.com/Shaier/DINN/tree/master/Diseases) folder has all the diseases DINN was trained on.
