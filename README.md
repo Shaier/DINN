@@ -24,3 +24,12 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
   <img src="https://github.com/Shaier/DINN/blob/master/Experiments/real_data/covid_real_data_cumulative_cases.jpg" width="680" /> 
 <!--   <br/><br/> -->
 </div>
+
+
+# Setup
+For a quick setup follow the next steps:
+conda create -n dinn python=3.6
+conda activate dinn
+git clone https://github.com/Shaier/DINN.git
+cd DINN
+pip install -r requirements.txt
