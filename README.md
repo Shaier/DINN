@@ -40,6 +40,7 @@ git clone https://github.com/Shaier/DINN.git
 cd DINN
 
 pip install -r requirements.txt
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Once the packages are install, the next recommendation is to explore the [tutorial.ipynb](tutorial.ipynb) file.
