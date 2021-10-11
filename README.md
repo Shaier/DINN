@@ -16,7 +16,7 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
 <br/><br/>
 
 <p align="center">
-   COVID Model</span>
+   COVID Model: 1 Month Future Predictions </span>
 </p>
 
 <div align="center">
