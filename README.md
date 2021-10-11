@@ -43,4 +43,6 @@ pip install -r requirements.txt
 <br/><br/>
 
 
-Once the packages are install, the next recommendation is to explore the [tutorial.ipynb](tutorial.ipynb) file
+Once the packages are install, the next recommendation is to explore the [tutorial.ipynb](tutorial.ipynb) file.
+
+Other than that, the [Experiments](https://github.com/Shaier/DINN/tree/master/Experiments) folder
