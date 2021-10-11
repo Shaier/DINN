@@ -25,8 +25,10 @@ We introduce Disease Informed Neural Networks (DINNs) — neural networks capabl
 <!--   <br/><br/> -->
 </div>
 
+# Getting Started
+The easiest way to get started is to first install the necessary packages:
 
-# Setup
+## Setup
 For a quick setup follow the next steps:
 
 conda create -n dinn python=3.6
@@ -38,3 +40,6 @@ git clone https://github.com/Shaier/DINN.git
 cd DINN
 
 pip install -r requirements.txt
+
+
+Once the packages are install, the next recommendation is to explore the [tutorial.ipynb](tutorial.ipynb) file
