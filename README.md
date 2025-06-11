@@ -1,4 +1,4 @@
-# DINN
+y# DINN
 We introduce Disease Informed Neural Networks (DINNs) — neural networks capable of learning how diseases spread, forecasting their progression, and finding their unique parameters (e.g. death rate). Here, we used DINNs to identify the dynamics of 11 highly infectious and deadly diseases. These systems vary in their complexity, ranging from 3D to 9D ODEs, and from a few parameters to over a dozen. The diseases include COVID, Anthrax, HIV, Zika, Smallpox, Tuberculosis, Pneumonia, Ebola, Dengue, Polio, and Measles.
 
 <br/><br/>
@@ -47,3 +47,18 @@ Once the packages are install, the next recommendation is to explore the [tutori
 
 Other than that, the [experiments](https://github.com/Shaier/DINN/tree/master/Experiments) folder has all the experiments I ran for the paper.
 The [diseases](https://github.com/Shaier/DINN/tree/master/Diseases) folder has all the diseases DINN was trained on.
+
+
+## Citation 
+------------ 
+If you use the code or paper, please cite us with: 
+
+@misc{shaier2022datadrivenapproachespredictingspread,
+      title={Data-driven approaches for predicting spread of infectious diseases through DINNs: Disease Informed Neural Networks}, 
+      author={Sagi Shaier and Maziar Raissi and Padmanabhan Seshaiyer},
+      year={2022},
+      eprint={2110.05445},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2110.05445}, 
+}
