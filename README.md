@@ -1,4 +1,4 @@
-y# DINN
+# DINN
 We introduce Disease Informed Neural Networks (DINNs) — neural networks capable of learning how diseases spread, forecasting their progression, and finding their unique parameters (e.g. death rate). Here, we used DINNs to identify the dynamics of 11 highly infectious and deadly diseases. These systems vary in their complexity, ranging from 3D to 9D ODEs, and from a few parameters to over a dozen. The diseases include COVID, Anthrax, HIV, Zika, Smallpox, Tuberculosis, Pneumonia, Ebola, Dengue, Polio, and Measles.
 
 <br/><br/>
